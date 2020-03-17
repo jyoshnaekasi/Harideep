@@ -1,1 +1,1 @@
-Source Code management using git and github
+this workshop is interesting
